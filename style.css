@@ -1,0 +1,23 @@
+.wrapper {
+    width: 600px;
+}
+.ongoing {
+    background-color: yellow;
+    min-height: 50px;
+    border: 5px solid white;
+    color: black;
+}
+
+.done {
+    background-color: green;
+    min-height: 50px;
+    border: 5px solid white;
+    color: black;
+}
+
+.coming {
+    background-color: red;
+    min-height: 50px;
+    border: 5px solid white;
+    color: black;
+}
